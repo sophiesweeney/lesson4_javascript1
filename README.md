@@ -4,22 +4,22 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 16, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Sophie Sweeney)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This project uses the fundamentals of JavaScript programming by creating a simple expense calculator application that takes input values and returns percentages.)
 
 ### View Project:
 (Replace this statement with your GitHub Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How to retrieve values from a text field.)
+2. (Declare variables that also store results.)
+3. (How to use the parseFloat method to convert inputs from strings to floats.)
 
 
 
